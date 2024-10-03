@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21313
-Fork on GitHub6670
 <h1 align="center">Hi 👋, I'm Emad</h1>
 <h3 align="center">A passionate frontend & backend developer.</h3>
 
