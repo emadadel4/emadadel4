@@ -59,7 +59,3 @@
  <a href="#" target="_blank">
     <img src="https://is2-ssl.mzstatic.com/image/thumb/Video7/v4/5f/51/75/5f5175bf-5f14-39e7-9e37-30548c2d3044/source/1200x630bb.jpg" alt="Play Video" style="width: 100px;">
 </a>
-  
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/emadadel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emadadel" /></a></p><br><br>
-
