@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emad</h1>
-<h3 align="center">A passionate frontend & backend developer.</h3>
-
+<h1 align="center">Hey 👋, how’s it going, my friend?</h1>
 
 - 🔭 I’m currently working on **Eterminal**
 
