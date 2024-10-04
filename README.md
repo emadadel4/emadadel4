@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, how’s it going, my friend?</h1>
+<h1 align="center">Hey 👋, how’s it going, my friend</h1>
 
 - 🔭 I’m currently working on **Eterminal**
 
