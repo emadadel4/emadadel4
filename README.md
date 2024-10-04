@@ -1,13 +1,9 @@
 <h1 align="center">Hey 👋, how’s it going, my friend</h1>
 
-- 🔭 I’m currently working on **Eterminal**
-
-- 🤝 I’m looking for help with **ITT**
-
-- 📝 I regularly write articles on [https://emadadel4.github.io](https://emadadel4.github.io)
-
-- 📫 How to reach me  <a href="https://t.me/emadadel4" style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="text-align: center;" alt="Telegram"  width="25">
+- 🔭 I’m currently working on [**Eterminal**](https://github.com/emadadel4/Eterminal)
+- 🤝 I’m looking for help with [**ITT**](https://github.com/emadadel4/ITT)
+- 📝 I regularly write articles on [Blog](https://emadadel4.github.io)
+- 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 </a>
 
 
