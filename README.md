@@ -7,7 +7,7 @@
 </a>
 
 
-<h3 align="left">My official channel & Blog:</h3>
+<h3 align="left">My Official Channel & Blog:</h3>
 <p align="left">
 
 
