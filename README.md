@@ -54,6 +54,10 @@
 </a>
 
 <a href="#" target="_blank">
+    <img src="https://image.tmdb.org/t/p/original/aPEH1ffaEAcBWkRXBBx2vgXiW1B.jpg" alt="Play Video" style="width: 100px;">
+</a>
+
+<a href="#" target="_blank">
     <img src="https://amc-theatres-res.cloudinary.com/v1579118427/amc-cdn/production/2/movies/11400/11393/Poster/p_800x1200_AMC_12AngryMen1957_10082019.jpg" alt="Play Video" style="width: 100px;">
 </a>
 
