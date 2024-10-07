@@ -4,7 +4,8 @@
 - 🤝 I’m looking for help with [**ITT**](https://github.com/emadadel4/ITT)
 - 📝 I regularly write articles on [Blog](https://emadadel4.github.io)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
-- ⏬ Do you want download any youtube video [Shelltube](https://github.com/emadadel4/ShellTube)  
+- ⏬ Download any youtube video [Shelltube](https://github.com/emadadel4/ShellTube)
+- 🎧 Listen to the holy Quran [Listen to Quranic Surahs Every Day](https://emadadel4.github.io/Soura/)
 </a>
 
 
