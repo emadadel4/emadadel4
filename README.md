@@ -29,33 +29,38 @@
 
 ## Favorites Movies & Shows 
 
-  <a href="#" target="_blank">
-            <img src="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt="Play Video" style="width: 100px;">
-  </a>
-
- <a href="#" target="_blank">
-            <img src="https://www.themoviedb.org/t/p/original/d6LbJZO8ruvXgOjjGRgjtdYpJS4.jpg" alt="Play Video" style="width: 100px;">
+<a href="#" target="_blank">
+    <img src="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
-            <img src="https://gradly.net/wp-content/uploads/2011/07/20110719_batman_trilogy_poster_big.jpg" alt="Play Video" style="width: 100px;">
+    <img src="https://www.themoviedb.org/t/p/original/d6LbJZO8ruvXgOjjGRgjtdYpJS4.jpg" alt="Play Video" style="width: 100px;">
 </a>
 
- <a href="#" target="_blank">
-      <img src="https://image.tmdb.org/t/p/original/gY54trMRzlElYrL6oVdAWJK1ICL.jpg" alt="Play Video" style="width: 100px;">
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://posterspy.com/wp-content/uploads/2018/01/DFBC815C-13BC-4BF9-826A-C7C1930EF19A.jpeg" alt="Play Video" style="width: 100px;">
-  </a>
+<a href="#" target="_blank">
+    <img src="https://i.pinimg.com/originals/9a/b8/e1/9ab8e1adabc175930c6eb2fea61f8d5c.jpg" alt="Play Video" style="width: 101px;">
+</a>
+
+<a href="#" target="_blank">
+    <img src="https://image.tmdb.org/t/p/original/qoY7FKgWzXzVZ0Tz4A8U1Jsbhke.jpg" alt="Play Video" style="width: 100px;">
+</a>
+
+<a href="#" target="_blank">
+    <img src="https://image.tmdb.org/t/p/original/gY54trMRzlElYrL6oVdAWJK1ICL.jpg" alt="Play Video" style="width: 100px;">
+</a>
   
- <a href="#" target="_blank">
-      <img src="https://amc-theatres-res.cloudinary.com/v1579118427/amc-cdn/production/2/movies/11400/11393/Poster/p_800x1200_AMC_12AngryMen1957_10082019.jpg" alt="Play Video" style="width: 100px;">
-  </a>
+<a href="#" target="_blank">
+    <img src="https://posterspy.com/wp-content/uploads/2018/01/DFBC815C-13BC-4BF9-826A-C7C1930EF19A.jpeg" alt="Play Video" style="width: 100px;">
+</a>
+
+<a href="#" target="_blank">
+    <img src="https://amc-theatres-res.cloudinary.com/v1579118427/amc-cdn/production/2/movies/11400/11393/Poster/p_800x1200_AMC_12AngryMen1957_10082019.jpg" alt="Play Video" style="width: 100px;">
+</a>
 
  <a href="#" target="_blank">
     <img src="https://is2-ssl.mzstatic.com/image/thumb/Video7/v4/5f/51/75/5f5175bf-5f14-39e7-9e37-30548c2d3044/source/1200x630bb.jpg" alt="Play Video" style="width: 100px;">
 </a>
 
- <a href="#" target="_blank">
-    <img src="https://image.tmdb.org/t/p/original/ArX2aYf4qlZJRw9ML2HqVOobkDS.jpg" alt="Play Video" style="width: 100px;">
+<a href="#" target="_blank">
+  <img src="https://image.tmdb.org/t/p/original/ArX2aYf4qlZJRw9ML2HqVOobkDS.jpg" alt="Play Video" style="width: 100px;">
 </a>
