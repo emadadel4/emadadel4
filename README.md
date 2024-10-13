@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, how’s it going, my friend</h1>
 
-- 🔭 I’m currently working on [**Eterminal**](https://github.com/emadadel4/Eterminal)
-- 🤝 I’m looking for help with [**ITT**](https://github.com/emadadel4/ITT)
+- 🔭 I’m currently working on [**ITT**](https://github.com/emadadel4/itt)
 - 📝 I regularly write articles on [Blog](https://emadadel4.github.io)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 - ⏬ Download any youtube video easy and simple [Shelltube](https://github.com/emadadel4/ShellTube)
