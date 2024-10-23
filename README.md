@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋, how’s it going, my friend</h1>
+  
+[![Genocide Watch](https://hinds-banner.vercel.app/genocide-watch?variant=forest)](https://www.pcrf.net/)
 
 - 🔭 I’m currently working on [**ITT**](https://github.com/emadadel4/itt)
 - 📝 I regularly write articles on [Blog](https://emadadel4.github.io)
