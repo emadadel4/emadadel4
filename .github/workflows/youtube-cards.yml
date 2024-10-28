@@ -1,4 +1,5 @@
 name: GitHub Readme YouTube Cards
+
 on:
   schedule:
     # Runs every hour, on the hour
@@ -11,8 +12,12 @@ jobs:
     # Allow the job to commit to the repository
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Run the GitHub Readme YouTube Cards action
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCOLkBOWpSVd7u81ueXG-bmQ
