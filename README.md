@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [**ITT**](https://github.com/emadadel4/itt)
 - 📝 I regularly write articles on [Blog](https://emadadel4.github.io)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
-- ⏬ Download any youtube video easy and simple [Shelltube](https://github.com/emadadel4/ShellTube)
+- ⏬ Download any youtube video easy and simple [Shelltube](https://url-cut.com/Shelltube)
 - 🎧 Listen to the holy Quran [Listen to Quranic Surahs Every Day](https://emadadel4.github.io/Soura/)
 </a>
 
