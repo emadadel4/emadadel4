@@ -105,7 +105,6 @@
   <img src="https://www.metacritic.com/a/img/resize/4f98447f8e92eaeab3985d9854a2adfaeae029b3/catalog/provider/6/12/6-1-779717-52.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a
 
-
 <a href="#" target="_blank">
   <img src="https://www.metacritic.com/a/img/resize/d986b8bec5dc48b6d2f419c957ae82690916e299/catalog/provider/6/3/6-1-53868-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a
