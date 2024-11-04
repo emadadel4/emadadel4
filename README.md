@@ -78,7 +78,12 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-## Favorites Video Games & Game Serres:
+## Favorites Video Games Series:
+
+
+<a href="#" target="_blank">
+    <img src="https://www.metacritic.com/a/img/resize/870f1b327114b27e597c2b50d4b95136bc9fea71/catalog/provider/6/12/6-1-108572-52.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
 
 <a href="#" target="_blank">
     <img src="https://www.metacritic.com/a/img/resize/84071b43988b1af408979e3de4d8a5117363323f/catalog/provider/6/3/6-1-43965-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
