@@ -78,50 +78,60 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-## Favorites Video Games:
-
+## Favorites Video Games & Game Serres:
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/84071b43988b1af408979e3de4d8a5117363323f/catalog/provider/6/3/6-1-43965-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/84071b43988b1af408979e3de4d8a5117363323f/catalog/provider/6/3/6-1-43965-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/36ea1c5283d97fe82640169d1c226e9e3253268e/catalog/provider/7/2/7-1730518517.jpg?auto=webp&fit=cover&height=300&width=200" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/36ea1c5283d97fe82640169d1c226e9e3253268e/catalog/provider/7/2/7-1730518517.jpg?auto=webp&fit=cover&height=300&width=200" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/d81d6917346d6af1cbaaeb00f7e5a36a12f380da/catalog/provider/6/3/6-1-732111-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/d81d6917346d6af1cbaaeb00f7e5a36a12f380da/catalog/provider/6/3/6-1-732111-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 101px;">
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/8b8580a0913f69bb95c30c4e82d5802f6062bf75/catalog/provider/6/3/6-1-94357-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/8b8580a0913f69bb95c30c4e82d5802f6062bf75/catalog/provider/6/3/6-1-94357-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/a3076e5908e2c4193e2ad2ba936e3b1bb25881c7/catalog/provider/6/3/6-1-265780-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/a3076e5908e2c4193e2ad2ba936e3b1bb25881c7/catalog/provider/6/3/6-1-265780-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
+  
+<a href="#" target="_blank">
+    <img src="https://www.metacritic.com/a/img/resize/4f98447f8e92eaeab3985d9854a2adfaeae029b3/catalog/provider/6/12/6-1-779717-52.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/4f98447f8e92eaeab3985d9854a2adfaeae029b3/catalog/provider/6/12/6-1-779717-52.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
-</a
-
-<a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/d986b8bec5dc48b6d2f419c957ae82690916e299/catalog/provider/6/3/6-1-53868-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
-</a
-
-<a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/3443b627a7633fd17b20752b2da1f0f87e143d5b/catalog/provider/6/3/6-1-136054-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/d986b8bec5dc48b6d2f419c957ae82690916e299/catalog/provider/6/3/6-1-53868-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/05d61d7b6c532b6a4f699c4fd3abad01c4bcdd10/catalog/provider/6/3/6-1-103032-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/3443b627a7633fd17b20752b2da1f0f87e143d5b/catalog/provider/6/3/6-1-136054-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
+
+ <a href="#" target="_blank">
+    <img src="https://www.metacritic.com/a/img/resize/05d61d7b6c532b6a4f699c4fd3abad01c4bcdd10/catalog/provider/6/3/6-1-103032-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
   <img src="https://www.metacritic.com/a/img/resize/52fa9c8bcef84b4921844e5ec89912411daa3156/catalog/provider/6/3/6-1-276259-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
 
+<a href="#" target="_blank">
+    <img src="https://www.metacritic.com/a/img/resize/a3c18f5187e5f339d883f5dcb50565a8e4712c94/catalog/provider/6/3/6-1-844837-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
 
 <a href="#" target="_blank">
-  <img src="https://www.metacritic.com/a/img/resize/a3c18f5187e5f339d883f5dcb50565a8e4712c94/catalog/provider/6/3/6-1-844837-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/05ae111483a8808bf7a38582d688ef58d7e46b36/catalog/provider/6/3/6-1-76231-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
+
+<a href="#" target="_blank">
+    <img src="https://www.metacritic.com/a/img/resize/b0ebc3f218d7cdf02cbcf0aa9b3dd3785b7d45d9/catalog/provider/6/3/6-1-162241-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 101px;">
+</a>
+
+<a href="#" target="_blank">
+    <img src="https://www.metacritic.com/a/img/resize/6906d82a3c6595f7a08118796dc081123c21c01b/catalog/provider/6/3/6-1-9818-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
