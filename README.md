@@ -79,7 +79,7 @@
 
 
 
-## Some Favorites Video Games:
+## Some Favorites Video Games (Franchise):
 
 
 <a href="#" target="_blank">
@@ -95,7 +95,7 @@
 </a>
 
 <a href="#" target="_blank">
-    <img src="https://www.metacritic.com/a/img/resize/8b8580a0913f69bb95c30c4e82d5802f6062bf75/catalog/provider/6/3/6-1-94357-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+    <img src="https://www.metacritic.com/a/img/resize/beefc5e9fcf50e1c33071f5e00596728f633906d/catalog/provider/6/12/6-1-71799-52.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
 
 <a href="#" target="_blank">
@@ -123,7 +123,7 @@
 </a>
 
 <a href="#" target="_blank">
-    <img src="https://www.metacritic.com/a/img/resize/b0ebc3f218d7cdf02cbcf0aa9b3dd3785b7d45d9/catalog/provider/6/3/6-1-162241-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 101px;">
+    <img src="https://www.metacritic.com/a/img/resize/681da8e3b5ba1c2dd889e5664bbe31cc484773f9/catalog/provider/6/12/6-1-63862-52.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 101px;">
 </a>
 
 <a href="#" target="_blank">
