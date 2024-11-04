@@ -121,3 +121,8 @@
 <a href="#" target="_blank">
   <img src="https://www.metacritic.com/a/img/resize/52fa9c8bcef84b4921844e5ec89912411daa3156/catalog/provider/6/3/6-1-276259-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
+
+
+<a href="#" target="_blank">
+  <img src="https://www.metacritic.com/a/img/resize/a3c18f5187e5f339d883f5dcb50565a8e4712c94/catalog/provider/6/3/6-1-844837-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
