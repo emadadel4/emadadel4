@@ -109,3 +109,15 @@
 <a href="#" target="_blank">
   <img src="https://www.metacritic.com/a/img/resize/d986b8bec5dc48b6d2f419c957ae82690916e299/catalog/provider/6/3/6-1-53868-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a
+
+<a href="#" target="_blank">
+  <img src="https://www.metacritic.com/a/img/resize/3443b627a7633fd17b20752b2da1f0f87e143d5b/catalog/provider/6/3/6-1-136054-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://www.metacritic.com/a/img/resize/05d61d7b6c532b6a4f699c4fd3abad01c4bcdd10/catalog/provider/6/3/6-1-103032-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://www.metacritic.com/a/img/resize/52fa9c8bcef84b4921844e5ec89912411daa3156/catalog/provider/6/3/6-1-276259-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
+</a>
