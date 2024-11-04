@@ -78,7 +78,7 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-## Favorites Video Games Series:
+## Favorites Video Games:
 
 
 <a href="#" target="_blank">
