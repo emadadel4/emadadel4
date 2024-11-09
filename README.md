@@ -1,7 +1,7 @@
   
 [![Genocide Watch](https://hinds-banner.vercel.app/genocide-watch?variant=forest)](https://www.pcrf.net/)
 
-- 🔭 I’m currently working on [Red Dead Redemption 1 PC Localisation (تعريب)](https://www.metacritic.com/game/red-dead-redemption-featuring-undead-nightmare/)
+- 🔭 I’m currently working on [Red Dead Redemption 1 PC Localisation (تعريب)](https://x.com/emadadelx/status/1855391786224783377)
 - 📝 I regularly write articles on [Blog](https://url-cut.com/blog)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 - ⏬ Download any youtube video easy and simple [Shelltube](https://url-cut.com/Shelltube)
