@@ -2,9 +2,9 @@
 [![Genocide Watch](https://hinds-banner.vercel.app/genocide-watch?variant=forest)](https://www.pcrf.net/)
 
 - 🔭 I’m currently working on [Red Dead Redemption 1 PC Localisation (تعريب)](https://x.com/emadadelx/status/1855391786224783377)
-- 📝 I regularly write articles on [Blog](https://url-cut.com/blog)
+- 📝 I regularly write articles on [Blog](https://emadadel4.github.io/)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
-- ⏬ Download any youtube video easy and simple [Shelltube](https://url-cut.com/Shelltube)
+- ⏬ Download any youtube video easy and simple [Shelltube](https://youtu.be/QmO82OTsU5c)
 - 🎧 Listen to the holy Quran [Listen to Quranic Surahs Every Day](https://emadadel4.github.io/Soura/)
 </a>
 
