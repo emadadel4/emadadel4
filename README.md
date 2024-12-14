@@ -1,7 +1,7 @@
   
 [![Genocide Watch](https://hinds-banner.vercel.app/genocide-watch?variant=forest)](https://www.pcrf.net/)
 
-- 🔭 I’m currently working on [Red Dead Redemption 1 PC Localisation (تعريب)](#)
+- 🔭 I’m currently working on [itt](https://github.com/emadadel4/itt)
 - 📝 I regularly write articles on [Blog](https://emadadel4.github.io/)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 - ⏬ Download any youtube video easy and simple [Shelltube](https://youtu.be/QmO82OTsU5c)
