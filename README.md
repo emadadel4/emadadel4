@@ -1,6 +1,3 @@
-  
-[![Genocide Watch](https://hinds-banner.vercel.app/genocide-watch?variant=forest)](https://www.pcrf.net/)
-
 - 🔭 I’m currently working on [itt](https://github.com/emadadel4/itt) & [Void Linux](https://github.com/emadadel4/Void-Linux)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 - ⏬ Download any youtube video easy and simple [Shelltube](https://youtu.be/nI7rUhWeOrA)
