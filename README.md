@@ -67,7 +67,7 @@
   <a href="https://buymeacoffee.com/emadadel" target="_blank">
       <img src="https://cdn.buymeacoffee.com/assets/homepage/meta/apple-icon-120x120.png" width="40" height="40" alt="Buy me a coffe logo"  />
   </a>
-  <a href="https://emadadel4.github.io">
+  <a href="emadadel.gitlab.io">
     <img src="https://emadadel4.github.io/assets/images/ico.png" width="40" height="40" alt="Blog"  >
   </a>
 </div>
