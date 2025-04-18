@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on [itt](https://github.com/emadadel4/itt) & [Void Linux](https://github.com/emadadel4/Void-Linux)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 - ⏬ Download any youtube video easy and simple [Shelltube](https://youtu.be/nI7rUhWeOrA)
-- 🎧 Listen to the holy Quran [Listen to Quranic Surahs Every Day](https://emadadel4.github.io/Soura/)
+- 🎧 Holy Quran - القرآن الكريم [Listen to Quranic Surahs Every Day](https://emadadel4.github.io/Soura/)
 </a>
 
 
