@@ -69,15 +69,6 @@
   </a>
 </div>
 
-###
-
-## Featured Youtube Videos:
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![The Easiest Way to Download YouTube Videos Instantly!](https://ytcards.demolab.com/?id=nI7rUhWeOrA&title=The+Easiest+Way+to+Download+YouTube+Videos+Instantly%21&lang=en&timestamp=1726815372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Easiest Way to Download YouTube Videos Instantly!")](https://www.youtube.com/watch?v=nI7rUhWeOrA)
-[![Install Programs Like a Pro in Minutes](https://ytcards.demolab.com/?id=QmO82OTsU5c&title=Install+Programs+Like+a+Pro+in+Minutes&lang=en&timestamp=1721616287&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Install Programs Like a Pro in Minutes")](https://www.youtube.com/watch?v=QmO82OTsU5c)
-<!-- END YOUTUBE-CARDS -->
-
 ## Favorites Movies & Shows:
 
 <a href="#" target="_blank">
