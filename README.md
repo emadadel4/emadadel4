@@ -1,3 +1,9 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Welcome+visitor+!;Let+me+ask+you+a+question;are+you+0+or+1+%3F)](https://git.io/typing-svg)
+
+</div>
+
 - 🔭 I’m currently working on [ITT](https://github.com/emadadel4/itt) & [Void Linux](https://github.com/emadadel4/Void-Linux)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 - ⏬ Download any youtube video easy and simple [Shelltube](https://youtu.be/nI7rUhWeOrA)
