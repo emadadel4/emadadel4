@@ -101,6 +101,10 @@
     <img src="https://amc-theatres-res.cloudinary.com/v1579118427/amc-cdn/production/2/movies/11400/11393/Poster/p_800x1200_AMC_12AngryMen1957_10082019.jpg" alt="Play Video" style="width: 100px;">
 </a>
 
+<a href="#" target="_blank">
+  <img src="https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UY3156_.jpg" alt="Play Video" style="width: 100px;">
+</a>
+
  <a href="#" target="_blank">
     <img src="https://is2-ssl.mzstatic.com/image/thumb/Video7/v4/5f/51/75/5f5175bf-5f14-39e7-9e37-30548c2d3044/source/1200x630bb.jpg" alt="Play Video" style="width: 100px;">
 </a>
@@ -108,7 +112,6 @@
 <a href="#" target="_blank">
   <img src="https://image.tmdb.org/t/p/original/ArX2aYf4qlZJRw9ML2HqVOobkDS.jpg" alt="Play Video" style="width: 100px;">
 </a>
-
 
 
 
