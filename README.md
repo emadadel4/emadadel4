@@ -56,9 +56,6 @@
   <a href="https://www.patreon.com/c/emadadel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/19779945/emad-adel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
   <a href="https://emadadel.gitlab.io">
     <img src="https://emadadel4.github.io/assets/images/ico.png" width="40" height="40" alt="Blog"  >
   </a>
