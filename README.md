@@ -4,7 +4,6 @@
 
 </div>
 
-- 🔭 I’m currently working on [ITT](https://github.com/emadadel4/itt) & [ETerminal](https://github.com/emadadel4/ETerminal)
 - 📫 How to reach me  [Telegram](https://t.me/emadadel4)
 - ⏬ Download any youtube video easy and simple [Shelltube](https://youtu.be/nI7rUhWeOrA)
 - 🎧 The Holy Quran - القرآن الكريم [Listen to Quranic Surahs Every Day](https://emadadel4.github.io/Soura/)
