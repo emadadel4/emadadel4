@@ -4,11 +4,11 @@
 
 </div>
 
-- 📫 How to reach me  [Telegram](https://t.me/emadadel4)
-- ⏬ Download any youtube video easy and simple [Shelltube](https://github.com/emadadel4/ShellTube)
-- 🎧 The Holy Quran - القرآن الكريم [Listen to Quranic Surahs Every Day](https://emadadel4.github.io/Soura/)
-- Void linux [Post-Install](https://github.com/emadadel4/void-linux)
-</a>
+- ⚙️ [ITT](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.  
+- ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download YouTube videos easily.  
+- 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
+- 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
+- 📬 Contact me on [Telegram](https://t.me/emadadel4)
 
 
 <h3 align="left">Languages and Tools:</h3>
