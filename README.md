@@ -8,7 +8,7 @@
 - ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download YouTube videos easily.  
 - 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
 - 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
-- 📬 Contact me on [Telegram](https://t.me/emadadel4) — I don’t use other social media accounts (I don't like social media).
+- 📬 Contact me on [Telegram](https://t.me/emadadel4) — I don’t use any social media platform (I don't like social media).
 
 <h3 align="left">Languages and Tools:</h3>
 
