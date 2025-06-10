@@ -5,7 +5,7 @@
 </div>
 
 - ⚙️ [ITT](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.
-- [Rootly](https://github.com/emadadel4/Rootly): Linux guide (Arabic)
+- 🐧 [Rootly](https://github.com/emadadel4/Rootly): Linux guide (Arabic)
 - 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
 - ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download YouTube videos easily.  
 - 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
