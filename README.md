@@ -11,7 +11,11 @@
 ### - 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
 ### - 📬 Contact me on [Telegram](https://t.me/emadadel4) — I don’t use any social media platform (I don't like social media).
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -45,7 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-## Favorites Movies & Shows:
+
+<br>
+<br>
+
+<details>
+<summary>Favorites Movies & Shows:</summary>
 
 <a href="#" target="_blank">
     <img src="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt="Play Video" style="width: 100px;">
@@ -91,10 +100,11 @@
   <img src="https://image.tmdb.org/t/p/original/ArX2aYf4qlZJRw9ML2HqVOobkDS.jpg" alt="Play Video" style="width: 100px;">
 </a>
 
+</details>
 
 
-## Some Favorites Video Games (Franchise):
-
+<details>
+<summary>Some Favorites Video Games (Franchise):</summary>
 
 <a href="#" target="_blank">
     <img src="https://www.metacritic.com/a/img/resize/870f1b327114b27e597c2b50d4b95136bc9fea71/catalog/provider/6/12/6-1-108572-52.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
@@ -151,3 +161,5 @@
 <a href="#" target="_blank">
     <img src="https://www.metacritic.com/a/img/resize/be898c1ca42a98898f983f09f1b2be39cef01f41/catalog/provider/6/3/6-1-597897-13.jpg?auto=webp&fit=cover&height=132&width=88" alt="Play Video" style="width: 100px;">
 </a>
+
+</details>
