@@ -4,12 +4,12 @@
 
 </div>
 
-- ⚙️ [ITT](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.
-- 🐧 [Rootly](https://github.com/emadadel4/Rootly): Linux guide (Arabic).
-- 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
-- ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download Youtube videos easily.  
-- 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
-- 📬 Contact me on [Telegram](https://t.me/emadadel4) — I don’t use any social media platform (I don't like social media).
+### - ⚙️ [ITT](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.
+### - 🐧 [Rootly](https://github.com/emadadel4/Rootly): Linux guide (Arabic).
+### - 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
+### - ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download Youtube videos easily.  
+### - 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
+### - 📬 Contact me on [Telegram](https://t.me/emadadel4) — I don’t use any social media platform (I don't like social media).
 
 <h3 align="left">Languages and Tools:</h3>
 
