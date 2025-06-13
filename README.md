@@ -4,7 +4,8 @@
 
 </div>
 
-### - ⚙️ [ITT](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.
+### - ⚙️[ITT](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.
+### - >_ [Eterminal](https://github.com/emadadel4/eterminal): Browser extension, Make new tab like terminal and add your custom commands and more.
 ### - 🐧 [Rootly](https://github.com/emadadel4/Rootly): Linux guide (Arabic).
 ### - 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
 ### - ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download Youtube videos easily.  
