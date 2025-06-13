@@ -27,6 +27,12 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 <br>
+
+### 🖥️ Operating Systems
+
+![Void Linux](https://img.shields.io/badge/-Void_Linux-000000?style=flat-square&logo=void-linux&logoColor=green)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 <details>
 <summary>Favorites Movies & Shows:</summary>
 
