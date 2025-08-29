@@ -4,12 +4,12 @@
 
 </div>
 
-#### - ⚙️[Install Tweaks Tool](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.
-#### - >_ [Eterminal](https://github.com/emadadel4/eterminal): Browser extension, Make new tab like terminal and add your custom commands and more.
-#### - 🐧 [Rootly](https://github.com/emadadel4/Rootly): Linux guide (Arabic).
-#### - 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
-#### - ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download Youtube videos easily.  
-#### - 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
+#### <img src="https://raw.githubusercontent.com/emadadel4/itt/refs/heads/main/static/Images/text-rounded-logo.png" alt="itt" width="20"> [Install Tweaks Tool](https://github.com/emadadel4/itt): Includes Windows 10/11 apps, tweaks, bloatware remover, and activation.
+#### 💻 [Eterminal](https://github.com/emadadel4/eterminal): Browser extension, Make new tab like terminal and add your custom commands and more.
+#### 🐧 [Rootly](https://github.com/emadadel4/Rootly): Linux guide (Arabic).
+#### 🐧 [Void Linux](https://github.com/emadadel4/void-linux): Void Linux with your favorite desktop or window manager.
+#### ⏬ [ShellTube](https://github.com/emadadel4/ShellTube): Download Youtube videos easily.  
+#### 🎧 [Quran](https://emadadel4.github.io/Soura/): Listen to daily Quranic Surahs.  
 
 ### Languages and Tools
 
@@ -21,7 +21,6 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
